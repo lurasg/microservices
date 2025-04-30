@@ -1,1 +1,1 @@
-Micro Services With HttpClient Communication , including angualr front end
+Micro Services With HttpClient Communication , including angular front end
